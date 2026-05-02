@@ -1,0 +1,122 @@
+<a,voca,x:y>
+grave:무덤; 중대한
+grieve:애도하다
+harass:놀리다, 괴롭히다
+harness:이용하다, 마구
+hard:어려운, 힘든, 힘들게
+hardly:거의 ~않다
+high:높은, 높이
+highly:매우
+historic:역사적으로 중요한
+historical:역사의
+humiliate:굴욕감을 주다
+humility:겸손
+industrial:산업의
+industrious:근면한
+habitat:서식지, 거주지
+inhabit:살다, 거주하다
+inhibit:억제하다, 금지하다
+inflict:가하다
+afflict:괴롭히다
+institution:기관, 협회, 제도
+intuition:직관
+install:설치하다
+instill:주입시키다
+instruct:지시하다, 가르치다
+obstruct:막다, 방해하다
+invest:투자하다, 부여하다
+invesigate:조사하다, 연구하다
+involve:포함하다, 수반하다
+evolve:진화하다, 발전하다
+revolve:돌다, 공전하다
+liberate:자유롭게 하다
+deliberate:고의의, 의도적인; 신중한
+lie(-lay-lain):있다, 눕다, 거짓말하다
+lay(-laid-laid):놓다, 두다
+literal:문자 그대로의
+literate:읽고 쓸 줄 아는
+literary:문학의
+lose:잃다
+loose:느슨한
+mass:덩어리, 질량, 대량의
+mess:난장판
+mediate:중재하다, 매개하다
+meditate:명상하다
+moderate:적당한, 중간의, 완화하다
+modest:겸손한, 적당한
+moral:도덕적인
+morale:사기
+numerous:수많은
+numerable:셀 수 있는
+outlook:관점; 전망
+overlook:간과하다
+opponent:반대자
+proponent:지지자
+physician:내과 의사
+physiologist:생리학자
+psychologist:심리학자
+precede:~에 앞서다
+proceed:진행하다
+presume:추정하다, 간주하다
+resume:재개하다
+principle:원칙
+principal:주요한, 교장
+probe:탐사하다
+prove:증명하다
+prompt:즉각적인, 신속한; 촉발하다
+tempt:유혹하다
+pronounce:발음하다, 선언하다
+renounce:그만두다, 거절하다
+quiet:조용한
+quite:상당히
+scare:놀라게 하다
+scarce:부족한
+sensory:감각의
+sensitive:민감한, 예민한
+sensible:분별력 있는, 현명한
+sensual:감각적인
+stationary:정지된
+stationery:문구점
+strive:투쟁하다, 노력하다
+thrive:번영하다
+successful:성공적인
+successive:연속적인
+swallow:삼키다
+shallow:얕은
+sympathy:동정, 연민
+empathy:공감, 감정이입
+antipathy:반감, 혐오
+tactic:전략
+tactile:촉각의
+terrible:끔찍한
+terrific:멋진, 훌륭한, 엄청난
+through: ~을 통해서
+thorough: 철저한
+resemble:닮다, 비슷하다
+assemble:모이다, 조립하다
+royal:국왕의, 왕실의
+loyal:충실한
+rise:증가, 오르다
+raise:일으키다, 올리다; 모으다; 키우다; 제기하다
+recur:재발하다
+concur:동의하다, 일치하다
+reference:언급, 참조
+inference:추론
+refer:언급하다, 지시하다, 참고하다
+referee:심판
+confer:상의하다; 수여하다
+defer:연기하다
+restraint:규제
+constraint:제약
+retain:유지하다
+sustain:지속하다
+unanimous:만장일치의
+anonymous:익명의
+vacation:휴가, 방학
+vocation:직업, 적성
+wary:경계하는
+weary:지친, 피곤한
+invaluable:귀중한
+valueless:무가치한
+worthless:무가치한
+priceless:귀중한

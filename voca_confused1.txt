@@ -1,0 +1,121 @@
+<a,voca,x:y>
+adapt:적응하다; 조정하다
+adopt:채택하다; 입양하다
+adept:능숙한
+abroad:해외로
+aboard:탑승한
+achieve:이루다, 성취하다
+archive:기록 보관소
+advent:출현, 도래
+adverse:부정적인, 불리한
+advice:충고
+advise:충고하다
+affect:영향을 주다
+effect:결과, 효과
+amaze:놀라게 하다
+amuse:즐겁게 하다
+anaylze:분석하다
+analogy:비유; 유추
+attempt:시도, 시도하다
+contempt:경멸
+attention:집중
+attendance:출석
+awful:끔찍한
+awesome:멋진
+beast:짐승
+breast:가슴
+bold:용감한, 굵은
+bald:대머리의
+borrow:빌리다
+lend:빌려주다
+breath:숨
+breadth:폭, 너비
+childlike:순진한, 아이 같은
+childish:유치한
+coordinate:조정하다, 조직화하다
+subordinate:하위의, 종속시키다
+cooperate:협력하다
+corporate:기업의, 공동의
+incorporate:통합하다, 포함하다
+competent:능숙한, 유능한
+competitive:경쟁하는
+complement:보완, 보완하다
+compliment:칭찬, 칭찬하다
+implement:시행하다, 도구
+comprehend:이해하다
+comprehensive:종합적인
+compel:강요하다
+expel:쫓아내다
+repel:쫓아내다
+conceive:품다, 생각하다; 임신하다
+deceive:속이다
+perceive:인지하다
+coherent:일관성 있는
+inherent:내재하는
+comprise:~으로 구성되다
+compromise:타협하다, 손상시키다
+conceal:숨기다
+reveal:드러내다
+confident:자신감 있는, 확신하는
+confidential:비밀의
+confine:국한하다, 한도
+refine:정제하다; 개선하다
+confirm:확인하다
+conform:순응하다
+reform:개선, 개선하다
+conscious:의식하는
+conscience:양심
+conservation:보존
+conversation:대화
+considerate:배려깊은
+considerable:상당한
+constitute:여겨지다, 구성하다
+constitution:헌법
+contact:접촉, 연락하다
+contract:계약; 줄어들다
+contend:주장하다; 다투다
+content:내용; 만족하는
+counsel:조언, 조언하다
+council:의회
+decline:감소, 감소하다; 거절하다
+incline:기울다, 내키다
+recline:기대다
+decent:적절한, 품위 있는
+descent:하락, 내리막; 혈통
+desert:사막, 버리다
+dessert:디저트, 후식
+diary:일기
+dairy:낙농업
+die:죽다
+dye:염색, 염색하다
+diffuse:퍼뜨리다, 산만한
+infuse:불어넣다
+discrete:분리된, 별개의
+discreet:신중한
+distinct:뚜렷한, 분명한; 별개의
+instinct:본능; 직감
+distrust:불신, 불신하다
+entrust:맡기다, 위임하다
+economic:경제의
+economical:경제적인, 절약하는
+emigrate:이민 가다
+immigrate:이민 오다
+eminent:저명한, 탁월한
+prominent:중요한, 현저한
+employer:고용주
+employee:종업원
+empty:비어있는
+enforce:집행하다, 강요하다
+reinforce:보강하다, 강화하다
+equivalent:동등한, 비슷한 것
+equivocal:애매한, 분명하지 않은
+ethical:윤리적인
+ethnic:민족의
+vacant:비어있는
+extend:연장하다
+expend:소비하다
+expand:확장하다
+find(-found-found):찾다
+found(-founded-founded):설립하다
+fragment:조각, 파편
+fragile:부서지기 쉬운
