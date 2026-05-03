@@ -11,7 +11,9 @@ adverse:부정적인, 불리한
 advice:충고
 advise:충고하다
 affect:영향을 주다
-effect:결과, 효과
+effect:영향, 결과, 효과
+altruism:이타주의
+egotism:이기주의
 amaze:놀라게 하다
 amuse:즐겁게 하다
 anaylze:분석하다
@@ -30,6 +32,8 @@ borrow:빌리다
 lend:빌려주다
 breath:숨
 breadth:폭, 너비
+cherish:소중히 여기다
+perish:죽다, 소멸되다
 childlike:순진한, 아이 같은
 childish:유치한
 coordinate:조정하다, 조직화하다
