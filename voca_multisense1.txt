@@ -1,0 +1,82 @@
+<a,voca,x:y>
+accord:일치, 조화, 합의; 부여하다
+account:계좌; 설명하다, (for)차지하다
+act:행동하다, 연기하다; 법령
+acute:예리한; 극심한, 급성의
+address:주소; 연설하다, 다루다
+affect:영향을 미치다; 감정
+appeal:매력, 호소, 호소하다
+appreciate:진가를 알다, 감상하다; 감사하다
+article:글, 기사, 물품; 조항
+attachment:부착, 첨부자료; 애정
+attend:참석하다, (to)주의를 기울이다
+balance:균형; 잔액
+bar:막대, 빗장; 술집
+barely:간신히, 거의 ~않다
+bear:참다; 지니다, 낳다; 곰
+benefit:이점, 보조금
+bill:청구서, 지폐; 법안
+block:덩어리, 블록; 방해하다
+board:판자; 이사회; 탑승하다
+bound:~할 것 같은, 얽매인; (for)향하는; 경계 이루다
+branch:가지, 분야, 지점, 갈라지다
+break:깨다, 중단하다; 휴식
+capital:수도, 자본; 대문자, 주요한
+case:경우; 소송, 주장; 통
+cast:던지다; 빛을 발하다, 출연진
+certain:확실한; 어떤, 약간의
+character:성격, 특징; 등장인물; 문자
+chief:우두머리, 주요한
+chance:가능성, 기회, 우연
+charge:요금, 청구하다; 고소하다; 충전하다
+class:계층, 계급; 수업
+commit:저지르다; 약속하다; 헌신하다
+company:회사, 단체, 동료
+compose:구성하다; 작곡하다, 글을 짓다
+compromise:타협하다, 손상시키다
+concentrate:집중하다, 모으다
+concern:걱정, 관심을 갖다, 관련되다; 중요성
+conduct:수행, 지휘하다; 전도하다
+confidence:신뢰, 자신감; 비밀
+consequence:결과, 중요성
+content:내용; 만족하는
+contract:수축하다; 병에 걸리다; 계약하다
+coordinate:조정하다, 조직화하다; 좌표
+count:계산하다, 포함시키다; 중요하다
+counter:계산대; 반박하다, 반대의
+court:법정; 경기장
+cover:덮다; 다루다, 보도하다
+credit:신뢰, 칭찬; 입금하다; 믿다
+critical:비판적인; 중요한
+decline:하락, 감소하다; 거절하다
+degree:정도, 도; 학위
+deliberate:고의의, 의도적인; 신중한
+deliver:배달하다, 전하다; 연설하다; 출산하다;
+demonstration:시위; 설명, 입증
+desert:사막, 버리다
+digest:소화하다, 이해하다, 요약
+direct:지시하다, 감독하다; 직접적인
+discipline:훈련, 규율; 학문 분야
+disorder:무질서, 병
+draw:그리다, 끌다; 추첨; 무승부
+drive:운전하다, 유도하다, 욕구
+edge:모서리, 날, 우위; 위기
+embody:구현하다, 포함하다
+end:끝, 목적
+engagement:약속, 약혼, 참여
+entitle:자격을 주다; 제목을 붙이다
+even:평평한, 균등한; ~조차; 짝수의
+examine:조사하다, 시험하다
+fair:공평한; 많은; 박람회
+fancy:공상, 끌리다, 화려한
+feature:특징, 생김새, 특집
+figure:숫자, 그림; 인물; 생각하다
+fine:좋은; 맑은; 벌금
+fire:불; 해고하다
+flat:평평한; 김빠진, 저조한
+free:자유로운, 공짜의, 석방하다
+gather:모으다, 수확하다; 이해하다
+good:좋은; 이익, 상품
+grade:학년, 등급, 성적
+grave:무덤; 중대한, 근엄한
+grant:승인하다; 수여하다, 보조금
