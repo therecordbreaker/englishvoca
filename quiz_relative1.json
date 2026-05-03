@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "I don’t understand ______ you mean.",
+      "options": [
+        "what",
+        "that",
+        "who",
+        "which"
+      ],
+      "answer_index": 1,
+      "explanation": "what = the thing(s) that의 뜻으로, 뒤에 명사절이 올 때 쓸 수 있다. 문장 전체는 “네가 무슨 뜻인지 모르겠다”가 된다."
+    },
+    {
+      "id": 2,
+      "question": "My uncle, ______ lives in Busan, visits us every summer.",
+      "options": [
+        "who",
+        "that",
+        "what",
+        "whom"
+      ],
+      "answer_index": 1,
+      "explanation": "콤마가 있는 비제한적 관계절에서는 사람을 나타낼 때 who를 쓴다. that은 이 자리에서 쓰지 않는다."
+    },
+    {
+      "id": 3,
+      "question": "The car, ______ I bought last year, is already broken.",
+      "options": [
+        "that",
+        "who",
+        "which",
+        "what"
+      ],
+      "answer_index": 3,
+      "explanation": "콤마가 있는 비제한적 관계절에서는 사물에 대해 which를 쓴다. that은 쓸 수 없다."
+    },
+    {
+      "id": 4,
+      "question": "The man to ______ I spoke at the office is Mr. Kim.",
+      "options": [
+        "who",
+        "whom",
+        "what",
+        "that"
+      ],
+      "answer_index": 2,
+      "explanation": "전치사 to 뒤에는 목적격 관계대명사 whom이 와야 한다. who는 이 자리에서 문법적으로 맞지 않다."
+    },
+    {
+      "id": 5,
+      "question": "The book ______ is on the desk belongs to me.",
+      "options": [
+        "that",
+        "what",
+        "who",
+        "whom"
+      ],
+      "answer_index": 1,
+      "explanation": "사람이 아닌 것을 선행사로 하는 제한적 관계절에서 that이 가능하다. 이 문장에서는 which도 가능하지만 선지에 없으므로 정답은 that이다."
+    },
+    {
+      "id": 6,
+      "question": "Anyone ______ the rules will lose points.",
+      "options": [
+        "violating",
+        "violates",
+        "violated",
+        "to violate"
+      ],
+      "answer_index": 1,
+      "explanation": "이 문장은 관계대명사 없이 분사구문처럼 명사를 뒤에서 꾸미는 형태이다. 즉, anyone who is violating the rules의 뜻으로, 여기서는 violating이 맞다."
+    },
+    {
+      "id": 7,
+      "question": "The man ______ standing over there is my teacher.",
+      "options": [
+        "(blank)",
+        "who",
+        "that",
+        "whom"
+      ],
+      "answer_index": 1,
+      "explanation": "standing over there는 현재분사구문으로, 앞의 The man을 직접 수식한다. 따라서 관계대명사가 필요 없다."
+    },
+    {
+      "id": 8,
+      "question": "Do you know ______ she said to him?",
+      "options": [
+        "what",
+        "who",
+        "that",
+        "which"
+      ],
+      "answer_index": 1,
+      "explanation": "what은 “~한 것/무엇”의 뜻으로 목적어가 빠진 절을 이끈다. 문장 뜻은 “네가 그녀가 그에게 뭐라고 말했는지 아니?”이다."
+    },
+    {
+      "id": 9,
+      "question": "She is the person ______ helped me when I was lost.",
+      "options": [
+        "who",
+        "whom",
+        "what",
+        "which"
+      ],
+      "answer_index": 1,
+      "explanation": "선행사가 사람이고, 관계절 안에서 주어 자리이므로 who가 맞다. 여기서는 whom이 아니라 who를 써야 한다."
+    },
+    {
+      "id": 10,
+      "question": "The students with ______ we worked were from Canada.",
+      "options": [
+        "who",
+        "whom",
+        "what",
+        "that"
+      ],
+      "answer_index": 2,
+      "explanation": "전치사 with 뒤에는 목적격 관계대명사 whom이 와야 한다. who / that / what은 이 자리에서 맞지 않는다."
+    }
+  ]
+}

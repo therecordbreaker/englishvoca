@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "The report ______ the committee released yesterday has already caused controversy.",
+      "options": [
+        "that",
+        "who",
+        "whom",
+        "what"
+      ],
+      "answer_index": 1,
+      "explanation": "선행사가 사물이고, 뒤의 절에서 released의 목적어가 빠진 제한적 관계절이다. 이 자리에는 that이 자연스럽다."
+    },
+    {
+      "id": 2,
+      "question": "The reason ______ he gave for being late was not convincing.",
+      "options": [
+        "why",
+        "that",
+        "what",
+        "how"
+      ],
+      "answer_index": 2,
+      "explanation": "he gave의 목적어가 빠진 구조이므로 관계대명사 that이 필요하다. why는 이유를 설명하는 완전한 절이 올 때 쓰인다."
+    },
+    {
+      "id": 3,
+      "question": "The machine, ______ no one in the lab had ever seen before, was donated last week.",
+      "options": [
+        "who",
+        "whom",
+        "which",
+        "that"
+      ],
+      "answer_index": 3,
+      "explanation": "콤마가 있는 비제한적 관계절에서 사물을 받으므로 which가 맞다. 이 자리에서는 that을 쓰지 않는다."
+    },
+    {
+      "id": 4,
+      "question": "My brother, ______ is usually very quiet, asked a surprisingly sharp question.",
+      "options": [
+        "who",
+        "whom",
+        "what",
+        "which"
+      ],
+      "answer_index": 1,
+      "explanation": "콤마가 있는 비제한적 관계절에서 사람을 받는 주격 관계대명사는 who이다. 뒤의 is의 주어이므로 who가 정답이다."
+    },
+    {
+      "id": 5,
+      "question": "There is nothing ______ can change his mind.",
+      "options": [
+        "who",
+        "whom",
+        "that",
+        "which"
+      ],
+      "answer_index": 3,
+      "explanation": "nothing 뒤의 제한적 관계절에서 주어 자리에 들어갈 수 있는 것은 that이다. who/whom은 사람에만 쓰이며, which는 이 자리에서 보통 쓰지 않는다."
+    },
+    {
+      "id": 6,
+      "question": "I met a girl ______ parents are both doctors.",
+      "options": [
+        "whose",
+        "who",
+        "whom",
+        "in which"
+      ],
+      "answer_index": 1,
+      "explanation": "parents를 꾸미는 소유격 관계대명사이다. 사람의 부모를 나타내므로 whose가 정답이다."
+    },
+    {
+      "id": 7,
+      "question": "I have no idea ______ he was trying to say.",
+      "options": [
+        "that",
+        "who",
+        "what",
+        "which"
+      ],
+      "answer_index": 3,
+      "explanation": "what은 “무엇/무슨 것”의 뜻으로, 뒤에 he was trying to say와 같은 절을 이끌 수 있다. 문장 전체는 “그가 무슨 말을 하려 했는지 전혀 모르겠다”가 된다."
+    },
+    {
+      "id": 8,
+      "question": "The office in ______ the records are stored is on the third floor.",
+      "options": [
+        "what",
+        "which",
+        "who",
+        "whom"
+      ],
+      "answer_index": 2,
+      "explanation": "전치사 in 뒤에 들어가는 관계대명사는 which이다. in which의 구조가 되어야 한다."
+    },
+    {
+      "id": 9,
+      "question": "The book ______ I borrowed from the library has already been returned.",
+      "options": [
+        "what",
+        "who",
+        "whom",
+        "that"
+      ],
+      "answer_index": 4,
+      "explanation": "선행사가 사물이고, 뒤의 절에서 I borrowed의 목적어가 빠진 제한적 관계절이다. 이 자리는 that이 알맞다."
+    },
+    {
+      "id": 10,
+      "question": "What she said ______ everyone in the room.",
+      "options": [
+        "surprised",
+        "surprising",
+        "surprises",
+        "had surprised"
+      ],
+      "answer_index": 3,
+      "explanation": "What she said는 하나의 명사절로, 문장 전체의 주어이다. 따라서 동사는 단수 취급하여 surprises가 되어야 한다."
+    }
+  ]
+}

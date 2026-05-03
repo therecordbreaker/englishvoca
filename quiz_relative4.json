@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "This is the very book ______ I was looking for.",
+      "options": [
+        "(blank)",
+        "who",
+        "whom",
+        "whose"
+      ],
+      "answer_index": 1,
+      "explanation": "looking for의 목적어가 되는 관계대명사는 생략할 수 있다. who/whom/whose는 이 자리에서 맞지 않는다."
+    },
+    {
+      "id": 2,
+      "question": "It is important ______ you understand the difference between these two concepts.",
+      "options": [
+        "what",
+        "that",
+        "which",
+        "how"
+      ],
+      "answer_index": 2,
+      "explanation": "“It is + 형용사 + that절” 구조로, 진주어 역할을 하는 명사절을 이끄는 접속사 that이 필요하다."
+    },
+    {
+      "id": 3,
+      "question": "The professor ______ lecture inspired many students became famous.",
+      "options": [
+        "who",
+        "whom",
+        "whose",
+        "which"
+      ],
+      "answer_index": 3,
+      "explanation": "lecture를 소유하는 주격 관계대명사 whose가 맞다."
+    },
+    {
+      "id": 4,
+      "question": "She insisted ______ he should apologize immediately.",
+      "options": [
+        "that",
+        "what",
+        "which",
+        "who"
+      ],
+      "answer_index": 1,
+      "explanation": "insist 뒤에는 내용절을 이끄는 접속사 that이 온다."
+    },
+    {
+      "id": 5,
+      "question": "The moment ______ the train arrived, everyone cheered.",
+      "options": [
+        "when",
+        "where",
+        "why",
+        "which"
+      ],
+      "answer_index": 1,
+      "explanation": "moment를 수식하는 관계부사 when이 알맞다."
+    },
+    {
+      "id": 6,
+      "question": "The claim ______ he was absent turned out to be false.",
+      "options": [
+        "that",
+        "what",
+        "which",
+        "whom"
+      ],
+      "answer_index": 1,
+      "explanation": "claim 뒤에는 내용절을 이끄는 접속사 that이 온다. “그가 결석했다는 주장”이라는 뜻이다."
+    },
+    {
+      "id": 7,
+      "question": "The problem with ______ the team had to deal was more serious than expected.",
+      "options": [
+        "which",
+        "whom",
+        "what",
+        "that"
+      ],
+      "answer_index": 1,
+      "explanation": "전치사 with 뒤에는 관계대명사 which가 온다. 전치사+관계대명사 구문이다."
+    },
+    {
+      "id": 8,
+      "question": "The city in ______ she grew up is famous for its beaches.",
+      "options": [
+        "which",
+        "whom",
+        "who",
+        "what"
+      ],
+      "answer_index": 1,
+      "explanation": "전치사 in 뒤에 관계대명사 which가 와서 “그녀가 자란 도시”를 나타낸다."
+    },
+    {
+      "id": 9,
+      "question": "The report from ______ the figures were taken is missing.",
+      "options": [
+        "which",
+        "whom",
+        "what",
+        "that"
+      ],
+      "answer_index": 1,
+      "explanation": "전치사 from 뒤에는 which가 와야 한다. “그 수치들이 나온 보고서”라는 뜻이다."
+    },
+    {
+      "id": 10,
+      "question": "______ he said at the meeting was different from ______ we had expected.",
+      "options": [
+        "What - what",
+        "That - what",
+        "What - that",
+        "That - that"
+      ],
+      "answer_index": 1,
+      "explanation": "앞의 빈칸은 “그가 말한 것” → 선행사를 포함하는 what이 필요하다. 뒤의 빈칸도 “우리가 기대했던 것”이라는 의미이므로 what이 와야 한다."
+    }
+  ]
+}

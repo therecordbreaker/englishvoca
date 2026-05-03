@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "This is the bridge on ______ the accident happened.",
+      "options": [
+        "which",
+        "whom",
+        "what",
+        "who"
+      ],
+      "answer_index": 1,
+      "explanation": "전치사 on 뒤에 관계대명사가 붙는 형태로, on which가 된다. 관계부사 where는 여기처럼 전치사가 이미 드러난 자리에서는 쓰지 않는다."
+    },
+    {
+      "id": 2,
+      "question": "The room in ______ the meeting was held was too small.",
+      "options": [
+        "where",
+        "which",
+        "what",
+        "who"
+      ],
+      "answer_index": 2,
+      "explanation": "in which는 전치사 + 관계대명사 구조이다. where는 가능해 보이지만, 이 문제는 전치사가 이미 앞에 있어서 which가 정답이 된다."
+    },
+    {
+      "id": 3,
+      "question": "The day ______ he finally returned was unforgettable.",
+      "options": [
+        "when",
+        "which",
+        "where",
+        "what"
+      ],
+      "answer_index": 1,
+      "explanation": "the day를 받아 시간의 관계부사 when이 들어간다. “그가 마침내 돌아온 날”이라는 뜻이다."
+    },
+    {
+      "id": 4,
+      "question": "The reason ______ she gave for her absence was reasonable.",
+      "options": [
+        "why",
+        "which",
+        "who",
+        "what"
+      ],
+      "answer_index": 2,
+      "explanation": "여기서는 gave의 목적어가 빠져 있다. 따라서 the reason which she gave의 구조가 된다. why는 “이유”를 설명하는 관계부사로, 이 문장에는 맞지 않는다."
+    },
+    {
+      "id": 5,
+      "question": "The reason ______ he stayed home was illness.",
+      "options": [
+        "why",
+        "which",
+        "what",
+        "who"
+      ],
+      "answer_index": 1,
+      "explanation": "the reason why + 절은 “~한 이유”라는 뜻이다. 뒤의 절이 완전하므로 관계부사 why가 맞다."
+    },
+    {
+      "id": 6,
+      "question": "I can never forget the place ______ we first met.",
+      "options": [
+        "where",
+        "which",
+        "what",
+        "who"
+      ],
+      "answer_index": 1,
+      "explanation": "장소를 나타내는 선행사 the place를 받아 관계부사 where가 들어간다. 뜻은 “우리가 처음 만났던 장소”이다."
+    },
+    {
+      "id": 7,
+      "question": "The engineer, ______ design won the competition, thanked her team.",
+      "options": [
+        "who",
+        "whom",
+        "whose",
+        "which"
+      ],
+      "answer_index": 3,
+      "explanation": "뒤의 design을 수식하는 소유격 관계대명사이므로 whose가 맞다."
+    },
+    {
+      "id": 8,
+      "question": "The report, ______ was submitted late, still passed.",
+      "options": [
+        "who",
+        "which",
+        "that",
+        "what"
+      ],
+      "answer_index": 2,
+      "explanation": "콤마가 있는 비제한적 관계절에서는 사물에 대해 which를 쓴다. 이 자리에서는 that이 불가능하다."
+    },
+    {
+      "id": 9,
+      "question": "The fact ______ she passed the exam surprised everyone.",
+      "options": [
+        "that",
+        "what",
+        "which",
+        "where"
+      ],
+      "answer_index": 1,
+      "explanation": "fact 뒤에는 내용절을 이끄는 접속사 that이 온다."
+    },
+    {
+      "id": 10,
+      "question": "I couldn’t understand ______ he meant by that remark.",
+      "options": [
+        "what",
+        "which",
+        "that",
+        "who"
+      ],
+      "answer_index": 1,
+      "explanation": "what은 “~한 것/것들”의 뜻으로, 여기서는 “그가 의미한 것”이 된다."
+    }
+  ]
+}
