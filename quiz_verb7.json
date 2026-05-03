@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Hardly had the lecture begun when the fire alarm ______, forcing everyone to leave the hall.",
+      "options": [
+        "goes off",
+        "had gone off",
+        "went off",
+        "was going off"
+      ],
+      "answer_index": 3,
+      "explanation": "Hardly had A p.p. when B V-ed 구조에서는 뒤 절의 동사가 보통 과거형으로 온다. 따라서 went off가 맞다."
+    },
+    {
+      "id": 2,
+      "question": "The coach demanded that every player ______ on time for the morning practice.",
+      "options": [
+        "is",
+        "be",
+        "was",
+        "being"
+      ],
+      "answer_index": 2,
+      "explanation": "demand that + 주어 + 동사원형은 요구·명령을 나타내는 가정법 현재 구조이다."
+    },
+    {
+      "id": 3,
+      "question": "It is the parents, not the child, who ______ responsible for the mistake.",
+      "options": [
+        "is",
+        "are",
+        "was",
+        "has been"
+      ],
+      "answer_index": 2,
+      "explanation": "관계절의 동사 수일치는 보통 선행사 parents에 맞춘다. 따라서 복수형 are가 알맞다."
+    },
+    {
+      "id": 4,
+      "question": "The plan, along with several related proposals, ______ discussed at the meeting yesterday.",
+      "options": [
+        "was",
+        "were",
+        "have been",
+        "are"
+      ],
+      "answer_index": 1,
+      "explanation": "A along with B에서는 동사의 수일치를 A에 맞춘다. The plan이 핵심 주어이므로 단수 동사 was가 맞다."
+    },
+    {
+      "id": 5,
+      "question": "The students were warned ______ the laboratory without permission.",
+      "options": [
+        "not enter",
+        "not to enter",
+        "to not entered",
+        "not entering"
+      ],
+      "answer_index": 2,
+      "explanation": "warn + 목적어 + to-v 구조가 쓰인다. 부정은 not to enter가 자연스럽다."
+    },
+    {
+      "id": 6,
+      "question": "The bridge, damaged in the storm, ______ closed for safety reasons.",
+      "options": [
+        "remained",
+        "remaining",
+        "remains",
+        "has remain"
+      ],
+      "answer_index": 1,
+      "explanation": "쉼표로 덧붙인 분사구는 부연 설명이고, 본동사는 문장의 시제에 맞는 remained이다."
+    },
+    {
+      "id": 7,
+      "question": "Neither the manager nor the employees ______ satisfied with the new policy.",
+      "options": [
+        "is",
+        "was",
+        "are",
+        "has been"
+      ],
+      "answer_index": 3,
+      "explanation": "neither A nor B에서는 동사가 보통 B에 일치한다. employees가 복수이므로 are가 맞다."
+    },
+    {
+      "id": 8,
+      "question": "By the time the guests arrived, the restaurant ______ all of its tables.",
+      "options": [
+        "had already reserved",
+        "had already been reserved",
+        "had already reserved by",
+        "was already reserving"
+      ],
+      "answer_index": 2,
+      "explanation": "by the time보다 앞선 완료 시점이므로 과거완료가 필요하고, restaurant가 예약당하는 대상이므로 수동태가 맞다."
+    },
+    {
+      "id": 9,
+      "question": "The more carefully you read the passage, the easier it will be ______ the author’s intention.",
+      "options": [
+        "understanding",
+        "to understand",
+        "understood",
+        "understand"
+      ],
+      "answer_index": 2,
+      "explanation": "It will be + 형용사 + to-v 구조이다. 따라서 to understand가 들어가야 한다."
+    },
+    {
+      "id": 10,
+      "question": "Not only the principal but also the teachers ______ the proposal unanimously.",
+      "options": [
+        "supports",
+        "support",
+        "supported",
+        "supporting"
+      ],
+      "answer_index": 2,
+      "explanation": "not only A but also B에서는 동사의 수일치를 보통 B에 맞춘다. the teachers가 복수이므로 support가 맞다."
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "The documents ______ in the cabinet are required for tomorrow’s interview.",
+      "options": [
+        "kept",
+        "keeping",
+        "keep",
+        "are kept"
+      ],
+      "answer_index": 1,
+      "explanation": "documents kept in the cabinet는 과거분사로 만든 수동의 의미를 가진 축약 관계절이다. 즉, 보관된 문서들이라는 뜻이다."
+    },
+    {
+      "id": 2,
+      "question": "The report ______ by the committee before it was submitted to the principal.",
+      "options": [
+        "reviews",
+        "reviewed",
+        "was reviewed",
+        "is reviewing"
+      ],
+      "answer_index": 3,
+      "explanation": "report는 the committee에 의해 검토되므로 수동태가 필요하다. 과거 시제 흐름에 맞춰 was reviewed가 알맞다."
+    },
+    {
+      "id": 3,
+      "question": "Each of the students ______ responsible for submitting the assignment on time.",
+      "options": [
+        "are",
+        "is",
+        "were",
+        "have been"
+      ],
+      "answer_index": 2,
+      "explanation": "Each of ~는 핵심 주어가 Each이므로 단수 동사를 쓴다."
+    },
+    {
+      "id": 4,
+      "question": "The teacher asked the students to read the passage carefully and ______ the main idea.",
+      "options": [
+        "to identify",
+        "identifying",
+        "identified",
+        "identifies"
+      ],
+      "answer_index": 1,
+      "explanation": "to read ~ and to identify ~처럼 병렬구조가 되어야 한다. 앞에 to read가 있으므로 뒤도 to identify가 자연스럽다."
+    },
+    {
+      "id": 5,
+      "question": "She kept ______ during the entire presentation, which made everyone nervous.",
+      "options": [
+        "to cough",
+        "cough",
+        "coughing",
+        "coughed"
+      ],
+      "answer_index": 3,
+      "explanation": "keep + -ing는 습관적·지속적 동작을 나타내는 표현이다."
+    },
+    {
+      "id": 6,
+      "question": "Not only the students but also the teacher ______ tired after the long meeting.",
+      "options": [
+        "were",
+        "was",
+        "are",
+        "have"
+      ],
+      "answer_index": 2,
+      "explanation": "not only A but also B에서는 동사의 수일치가 보통 B에 맞춰진다. 여기서는 the teacher가 핵심이므로 단수 동사 was가 맞다."
+    },
+    {
+      "id": 7,
+      "question": "The broken window needs ______ as soon as possible.",
+      "options": [
+        "repaired",
+        "repair",
+        "to repair",
+        "repairing"
+      ],
+      "answer_index": 4,
+      "explanation": "need + -ing는 ~되어야 하다라는 수동의 의미를 나타낼 수 있다. ①도 의미상 가능하지만, 이 문장에서는 needs repairing이 자연스럽다."
+    },
+    {
+      "id": 8,
+      "question": "Having ______ the instructions, he was able to assemble the desk without help.",
+      "options": [
+        "read",
+        "reads",
+        "reading",
+        "been reading"
+      ],
+      "answer_index": 1,
+      "explanation": "**Having + p.p.**는 완료 의미의 준동사 구조이다. 따라서 Having read가 맞다."
+    },
+    {
+      "id": 9,
+      "question": "The number of students who participate in the club ______ increasing every year.",
+      "options": [
+        "are",
+        "were",
+        "is",
+        "have been"
+      ],
+      "answer_index": 3,
+      "explanation": "The number of ~는 전체를 하나의 수량으로 보므로 단수 취급한다. 따라서 is increasing이 맞다."
+    },
+    {
+      "id": 10,
+      "question": "The candidates were expected to present their ideas clearly and ______ confidently.",
+      "options": [
+        "speak",
+        "speaking",
+        "spoke",
+        "to spoke"
+      ],
+      "answer_index": 1,
+      "explanation": "to present ~ and speak ~처럼 병렬로 이어져야 한다. 앞의 동사원형 present와 같은 형태인 speak가 적절하다."
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "While ______ the experiment, the researchers discovered an unexpected result.",
+      "options": [
+        "conducted",
+        "conducting",
+        "conduct",
+        "were conducting"
+      ],
+      "answer_index": 2,
+      "explanation": "while + 분사구문 (주어 동일) → 준동사(-ing). ④는 주어가 없어 문법적으로 불완전."
+    },
+    {
+      "id": 2,
+      "question": "The fact that he ______ late surprised everyone.",
+      "options": [
+        "arrive",
+        "arriving",
+        "arrived",
+        "to arrive"
+      ],
+      "answer_index": 3,
+      "explanation": "that절 내부 → 완전한 절 → 본동사 필요."
+    },
+    {
+      "id": 3,
+      "question": "______ no evidence to support his claim, he withdrew his argument.",
+      "options": [
+        "There was",
+        "There being",
+        "There is",
+        "Being"
+      ],
+      "answer_index": 2,
+      "explanation": "독립분사구문 → There being + 명사 (준동사 구조)."
+    },
+    {
+      "id": 4,
+      "question": "It is important that every student ______ the rules.",
+      "options": [
+        "follows",
+        "follow",
+        "following",
+        "to follow"
+      ],
+      "answer_index": 2,
+      "explanation": "that절 + (should) 동사원형 → 본동사지만 원형."
+    },
+    {
+      "id": 5,
+      "question": "She pretended ______ the answer, although she actually didn’t.",
+      "options": [
+        "knows",
+        "knowing",
+        "to know",
+        "knew"
+      ],
+      "answer_index": 3,
+      "explanation": "pretend + to V → 준동사."
+    },
+    {
+      "id": 6,
+      "question": "When ______ properly, the machine can operate efficiently.",
+      "options": [
+        "use",
+        "used",
+        "using",
+        "uses"
+      ],
+      "answer_index": 2,
+      "explanation": "분사구문(수동) → When it is used 생략."
+    },
+    {
+      "id": 7,
+      "question": "The reason why he failed ______ not clear yet.",
+      "options": [
+        "are",
+        "being",
+        "is",
+        "to be"
+      ],
+      "answer_index": 3,
+      "explanation": "주절의 본동사 자리 (The reason ~ is)."
+    },
+    {
+      "id": 8,
+      "question": "I heard the door ______ suddenly in the middle of the night.",
+      "options": [
+        "close",
+        "to close",
+        "closing",
+        "closed"
+      ],
+      "answer_index": 1,
+      "explanation": "지각동사 + 목적어 + 동사원형 (행위 전체)."
+    },
+    {
+      "id": 9,
+      "question": "______ what to do, she asked her teacher for advice.",
+      "options": [
+        "Not knowing",
+        "Did not know",
+        "Not knew",
+        "Not to know"
+      ],
+      "answer_index": 1,
+      "explanation": "분사구문(부정) → 준동사."
+    },
+    {
+      "id": 10,
+      "question": "No sooner ______ the announcement than the audience began to cheer.",
+      "options": [
+        "did he make",
+        "he made",
+        "making",
+        "to make"
+      ],
+      "answer_index": 1,
+      "explanation": "No sooner + 도치 (조동사 + 주어 + 동사) → 본동사 포함한 도치 구조."
+    }
+  ]
+}

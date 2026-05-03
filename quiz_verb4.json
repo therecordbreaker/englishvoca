@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "The manager insisted that the report ______ before noon.",
+      "options": [
+        "submits",
+        "submitting",
+        "be submitted",
+        "to submit"
+      ],
+      "answer_index": 3,
+      "explanation": "insist that + 주어 + (should) 동사원형 → 수동이므로 be p.p. (본동사 자리)"
+    },
+    {
+      "id": 2,
+      "question": "She seems ______ the answer, judging from her confident tone.",
+      "options": [
+        "knows",
+        "knowing",
+        "to know",
+        "knew"
+      ],
+      "answer_index": 3,
+      "explanation": "seem + to V → 준동사(to부정사) 자리"
+    },
+    {
+      "id": 3,
+      "question": "______ that he was wrong, he apologized immediately.",
+      "options": [
+        "Realizes",
+        "Realizing",
+        "Realized",
+        "To realize"
+      ],
+      "answer_index": 2,
+      "explanation": "분사구문 → 준동사(-ing)"
+    },
+    {
+      "id": 4,
+      "question": "What he said ______ true at first, but later proved false.",
+      "options": [
+        "seem",
+        "to seem",
+        "seemed",
+        "seeming"
+      ],
+      "answer_index": 3,
+      "explanation": "문장의 서술어(본동사) 자리 → 시제 필요"
+    },
+    {
+      "id": 5,
+      "question": "I would rather ______ at home than go out in this weather.",
+      "options": [
+        "stay",
+        "to stay",
+        "staying",
+        "stayed"
+      ],
+      "answer_index": 1,
+      "explanation": "would rather + 동사원형 → 준동사처럼 보이지만 원형동사 구조"
+    },
+    {
+      "id": 6,
+      "question": "The problem is difficult ______ without proper guidance.",
+      "options": [
+        "solve",
+        "solves",
+        "solving",
+        "to solve"
+      ],
+      "answer_index": 4,
+      "explanation": "형용사 + to부정사 → 준동사"
+    },
+    {
+      "id": 7,
+      "question": "He denied ______ any involvement in the incident.",
+      "options": [
+        "have",
+        "having",
+        "to have",
+        "had"
+      ],
+      "answer_index": 2,
+      "explanation": "deny + 동명사 → 준동사"
+    },
+    {
+      "id": 8,
+      "question": "Not ______ enough evidence, the police released the suspect.",
+      "options": [
+        "have",
+        "having",
+        "had",
+        "to have"
+      ],
+      "answer_index": 2,
+      "explanation": "분사구문(부정: Not + having p.p.) → 준동사"
+    },
+    {
+      "id": 9,
+      "question": "The teacher made the students ______ the assignment again.",
+      "options": [
+        "to do",
+        "doing",
+        "do",
+        "did"
+      ],
+      "answer_index": 3,
+      "explanation": "사역동사 make + 목적어 + 동사원형 → 본동사 아님 (목적보어)"
+    },
+    {
+      "id": 10,
+      "question": "Each of the students ______ responsible for the result.",
+      "options": [
+        "are",
+        "being",
+        "is",
+        "to be"
+      ],
+      "answer_index": 3,
+      "explanation": "주어 each → 단수 취급, 본동사 자리"
+    }
+  ]
+}

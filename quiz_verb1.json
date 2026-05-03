@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "She decided ______ abroad after graduation.",
+      "options": [
+        "go",
+        "to go",
+        "going",
+        "gone"
+      ],
+      "answer_index": 2,
+      "explanation": "decide는 to부정사를 목적어로 취함."
+    },
+    {
+      "id": 2,
+      "question": "I saw him ______ across the street.",
+      "options": [
+        "run",
+        "to run",
+        "running",
+        "ran"
+      ],
+      "answer_index": 3,
+      "explanation": "지각동사 see + 목적어 + 현재분사(진행 중인 동작)."
+    },
+    {
+      "id": 3,
+      "question": "The book ______ by the author became a bestseller.",
+      "options": [
+        "writing",
+        "wrote",
+        "written",
+        "to write"
+      ],
+      "answer_index": 3,
+      "explanation": "수동 의미 → 과거분사 written."
+    },
+    {
+      "id": 4,
+      "question": "He enjoys ______ music in his free time.",
+      "options": [
+        "listen",
+        "to listen",
+        "listening",
+        "listened"
+      ],
+      "answer_index": 3,
+      "explanation": "enjoy는 동명사(-ing) 목적어 사용."
+    },
+    {
+      "id": 5,
+      "question": "They made me ______ the whole report again.",
+      "options": [
+        "write",
+        "to write",
+        "writing",
+        "written"
+      ],
+      "answer_index": 1,
+      "explanation": "사역동사 make + 목적어 + 동사원형."
+    },
+    {
+      "id": 6,
+      "question": "______ tired, she went to bed early.",
+      "options": [
+        "Feeling",
+        "Feel",
+        "Felt",
+        "To feel"
+      ],
+      "answer_index": 1,
+      "explanation": "분사구문(능동) → 현재분사 사용."
+    },
+    {
+      "id": 7,
+      "question": "The problem is difficult ______.",
+      "options": [
+        "solve",
+        "to solve",
+        "solving",
+        "solved"
+      ],
+      "answer_index": 2,
+      "explanation": "형용사 + to부정사 구조 (difficult to solve)."
+    },
+    {
+      "id": 8,
+      "question": "I am used to ______ up early.",
+      "options": [
+        "get",
+        "to get",
+        "getting",
+        "got"
+      ],
+      "answer_index": 3,
+      "explanation": "be used to + 동명사."
+    },
+    {
+      "id": 9,
+      "question": "He had his car ______ yesterday.",
+      "options": [
+        "repair",
+        "repairing",
+        "repaired",
+        "to repair"
+      ],
+      "answer_index": 3,
+      "explanation": "사역 표현 have + 목적어 + 과거분사 (수동 의미)."
+    },
+    {
+      "id": 10,
+      "question": "She stopped ______ when she saw the teacher.",
+      "options": [
+        "talk",
+        "to talk",
+        "talking",
+        "talked"
+      ],
+      "answer_index": 3,
+      "explanation": "stop -ing = 하던 행동을 멈추다 (stop to V와 구별)."
+    }
+  ]
+}

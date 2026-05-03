@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "I remember ______ the door, but it is open now.",
+      "options": [
+        "lock",
+        "to lock",
+        "locking",
+        "locked"
+      ],
+      "answer_index": 3,
+      "explanation": "remember -ing = 과거에 한 일을 기억함. (문맥상 이미 잠갔음)"
+    },
+    {
+      "id": 2,
+      "question": "He forgot ______ the lights before leaving the room.",
+      "options": [
+        "turn",
+        "to turn",
+        "turning",
+        "turned"
+      ],
+      "answer_index": 2,
+      "explanation": "forget to V = 해야 할 일을 하지 않음."
+    },
+    {
+      "id": 3,
+      "question": "The man ______ over there is my uncle.",
+      "options": [
+        "stand",
+        "to stand",
+        "standing",
+        "stood"
+      ],
+      "answer_index": 3,
+      "explanation": "명사를 수식하는 현재분사 (능동, 진행)."
+    },
+    {
+      "id": 4,
+      "question": "The work ______ by the team was impressive.",
+      "options": [
+        "complete",
+        "completing",
+        "completed",
+        "to complete"
+      ],
+      "answer_index": 3,
+      "explanation": "수동 의미 → 과거분사."
+    },
+    {
+      "id": 5,
+      "question": "She was seen ______ into the building late at night.",
+      "options": [
+        "enter",
+        "to enter",
+        "entering",
+        "entered"
+      ],
+      "answer_index": 2,
+      "explanation": "지각동사의 수동형 → be seen to V."
+    },
+    {
+      "id": 6,
+      "question": "It is no use ______ with him about this issue.",
+      "options": [
+        "argue",
+        "to argue",
+        "arguing",
+        "argued"
+      ],
+      "answer_index": 3,
+      "explanation": "It is no use -ing (관용 표현)."
+    },
+    {
+      "id": 7,
+      "question": "He would rather ______ at home than go out.",
+      "options": [
+        "stay",
+        "to stay",
+        "staying",
+        "stayed"
+      ],
+      "answer_index": 1,
+      "explanation": "would rather + 동사원형."
+    },
+    {
+      "id": 8,
+      "question": "The teacher had the students ______ their homework again.",
+      "options": [
+        "do",
+        "to do",
+        "doing",
+        "done"
+      ],
+      "answer_index": 1,
+      "explanation": "사역동사 have + 목적어 + 동사원형."
+    },
+    {
+      "id": 9,
+      "question": "______ enough time, we could have finished the project.",
+      "options": [
+        "Giving",
+        "Given",
+        "To give",
+        "Give"
+      ],
+      "answer_index": 2,
+      "explanation": "분사구문(조건) = If we had been given... → 과거분사."
+    },
+    {
+      "id": 10,
+      "question": "She denied ______ the secret to anyone.",
+      "options": [
+        "tell",
+        "to tell",
+        "telling",
+        "told"
+      ],
+      "answer_index": 3,
+      "explanation": "deny는 동명사 목적어 사용."
+    }
+  ]
+}
