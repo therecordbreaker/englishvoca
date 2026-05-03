@@ -1,0 +1,81 @@
+<a,voca,x:y>
+grasp:붙잡다, 이해하다
+grip:붙잡다, 장악, 이해
+ground:지면; 입장
+gross:중대한, 총; 역겨운
+hold:잡다, 유지하다, 가지다; 개최하다
+interest:흥미, 관심; 이익, 이자
+intrigue:흥미를 일으키다; 음모
+issue:주제; 발행, 발표하다
+keen:예리한; 열망하는, 열렬한
+last:마지막의, 계속되다
+log:통나무, 벌목하다; 기록
+long:긴; 열망하다
+match:경기; 어울리다; 성냥
+matter:물질; 문제, 중요하다
+manner:방식, 태도; (s)예의
+margin:여백, 주변부, 여유; 수익
+mean:의미하다, 의도하다; 비열한; 평균의
+measure:조치, 척도
+meet:만나다; 충족시키다
+mission:임무, 사절단
+moderate:중간의, 적당한, 완화하다
+native:원주민의, 타고난
+object:물건, 대상; 목적; 반대하다
+observe:관찰하다; 준수하다; 말하다
+occasion:경우, 때; 행사; 이유
+odd:홀수의, 특이한
+operate:운영하다, 가동하다; 수술하다
+order:질서, 순서; 명령; 주문
+pack:포장하다, 가득 채우다; 배낭
+paper:종이, 서류, 논문
+party:파티, 단체, 정당
+park:공원; 주차하다
+pitch:최고조, 음 높이; 홍보; 던지다
+plain:평원, 평범한; 분명한, 솔직한
+plot:줄거리, 구성; 음모
+press:누르다; 신문
+prompt:즉각적인, 신속한; 촉발하다
+property:재산, 부동산; 속성
+pupil:학생, 제자; 동공
+race:경주; 인종
+radical:근본적인, 철저한; 급진적인
+raise:일으키다, 올리다; 모으다; 키우다; 제기하다
+rate:비율, 요금; 속도; 평가하다
+refer:(to)언급하다, 지칭하다; 참조하다
+remain:여전하다, 남다, 나머지, (s)유물
+reproduction:번식, 복제, 재현
+return:돌아오다, 반납하다; 수익, 보답
+rest:나머지; 휴식, 쉬다
+reserve:예약하다; 보류하다, 보유하다
+resolve:해결하다; 결심, 의지, 결정하다
+row:줄, 열; 노 젓기
+save:구하다; 저축하다, 절약하다
+score:득점, 점수; 악보
+second:초; 두 번째의
+secure:안전한, 안심하는, 확보하다
+sentence:문장; 형을 선고하다
+settle:정착하다; 해결하다, 결정하다
+shed:창고; 없애다, 흘리다; (on)비추다
+shelter:주거지; 대피소, 보호하다
+slip:미끄러지다; (into)들어가다, 놓다; 실수
+spike:못을 박다, 뾰족한 것, 급등
+spot:점; 현장, 발견하다
+spare:여분의, 할애하다; 아끼다
+spring:용수철; 봄, 생기
+state:상태; 국가; 말하다
+stick:고수하다; 끼다; 내밀다
+strike:치다; 인상을 주다; 파업
+string:줄, 끈, 현악기의; (s)조건
+subject:주제, 과목; 피험자, 종속시키다
+suggest:제안하다, 암시하다
+tear:눈물; 찢다
+term:기간, 학기; 용어, 칭하다
+trace:자취, 추적하다, 거슬러 올라가다; 극소량
+trail:자국, 흔적, 끌다; 오솔길
+treat:대하다, 치료하다
+trial:재판, 시험
+urge:설득하다, 촉구하다; 욕구
+will:~할 것이다, 의지
+withdrawal:철회, 철수, 취소; 인출
+yield:산출하다; 양보하다, 굴복하다
