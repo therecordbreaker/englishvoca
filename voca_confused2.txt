@@ -29,10 +29,12 @@ invesigate:조사하다, 연구하다
 involve:포함하다, 수반하다
 evolve:진화하다, 발전하다
 revolve:돌다, 공전하다
+kin:친족, 친척
+keen:예리한; 열망하는, 열렬한
 liberate:자유롭게 하다
 deliberate:고의의, 의도적인; 신중한
-lie(-lay-lain):있다, 눕다, 거짓말하다
-lay(-laid-laid):놓다, 두다
+lie(-lay-lain):있다, 눕다; 거짓말하다
+lay(-laid-laid):놓다, 두다; 낳다
 literal:문자 그대로의
 literate:읽고 쓸 줄 아는
 literary:문학의
@@ -89,6 +91,7 @@ antipathy:반감, 혐오
 tactic:전략
 tactile:촉각의
 terrible:끔찍한
+terrify:무섭게 하다
 terrific:멋진, 훌륭한, 엄청난
 through: ~을 통해서
 thorough: 철저한
@@ -102,7 +105,7 @@ recur:재발하다
 concur:동의하다, 일치하다
 reference:언급, 참조
 inference:추론
-refer:언급하다, 지시하다, 참고하다
+refer:(to)언급하다, 지칭하다; 참조하다
 referee:심판
 confer:상의하다; 수여하다
 defer:연기하다
