@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "korean": "이 노래는 전 세계 사람들에게 사랑받는다.",
+      "question": "this song be love by people all around the world",
+      "answer": "This song is loved by people all around the world",
+      "explanation": "수동태 [ S + be p.p. + by 행위자 ]"
+    },
+    {
+      "id": 2,
+      "korean": "그 편지는 어제 Tom에 의해 보내졌다.",
+      "question": "the letter be send by Tom yesterday",
+      "answer": "The letter was sent by Tom yesterday",
+      "explanation": "수동태 [ S + be p.p. + by 행위자 ]"
+    },
+    {
+      "id": 3,
+      "korean": "학생들은 시험 시간 동안 휴대전화를 사용하는 것이 허락되지 않는다.",
+      "question": "students be not allow to use cell phones during the test",
+      "answer": "Students are not allowed to use cell phones during the test",
+      "explanation": "수동태 [ S + be p.p. + by 행위자 ]"
+    },
+    {
+      "id": 4,
+      "korean": "그 교수에게 가르침을 받았던 학생들은 대학교 토론 팀으로 선발되었다.",
+      "question": "the students who be teach by the professor be choose for the university debate team",
+      "answer": "The students who were taught by the professor were chosen for the university debate team.",
+      "explanation": "수동태 [ S + be p.p. + by 행위자 ]"
+    },
+    {
+      "id": 5,
+      "korean": "새로운 환경 정책은 정부 관계자들에 의해 지금 논의되고 있다.",
+      "question": "the new environmental policy be be discuss by government officials right now",
+      "answer": "The new environmental policy is being discussed by government officials right now",
+      "explanation": "진행형 수동태 [ S + be being p.p. ]"
+    },
+    {
+      "id": 6,
+      "korean": "학교 축제를 위한 무대가 학생들에 의해 체육관에서 설치되고 있었다.",
+      "question": "the stage for the school festival be be set up by students in the gym",
+      "answer": "The stage for the school festival was being set up by students in the gym",
+      "explanation": "진행형 수동태 [ S + be being p.p. ]"
+    },
+    {
+      "id": 7,
+      "korean": "행사에서 발견된 오래된 유니폼은 유명한 선수들에 의해 현재 착용되고 있다.",
+      "question": "the old uniforms find at the event be be wear by famous players",
+      "answer": "The old uniforms found at the event are being worn by famous players",
+      "explanation": "진행형 수동태 [ S + be being p.p. ]"
+    },
+    {
+      "id": 8,
+      "korean": "인터넷에 올라온 잘못된 정보는 충분한 근거 없이 사람들에게 쉽게 믿어진다.",
+      "question": "false information post on the Internet be easily believe by people without sufficient evidence",
+      "answer": "False information posted on the Internet is easily believed by people without sufficient evidence",
+      "explanation": "수동태 [ S + be p.p. + by 행위자 ]"
+    },
+    {
+      "id": 9,
+      "korean": "시골 지역을 가로지르는 새로운 철로는 여름 동안 수백 명의 공사 인부들에 의해 빠르게 설치되었다.",
+      "question": "new railroad tracks across the countryside be lay rapidly by hundreds of construction workers during the summer",
+      "answer": "New railroad tracks across the countryside were laid rapidly by hundreds of construction workers during the summer",
+      "explanation": "수동태 [ S + be p.p. + by 행위자 ]"
+    },
+    {
+      "id": 10,
+      "korean": "지하 터널에서 발견된 역사적 문서들은 그 기원을 밝히기 위해 여러 나라의 전문가들에 의해 신중하게 조사되고 있다.",
+      "question": "the historical documents discover in the underground tunnel be be examine carefully by experts from several countries to determine their origin",
+      "answer": "The historical documents discovered in the underground tunnel are being examined carefully by experts from several countries to determine their origin.",
+      "explanation": "진행형 수동태 [ S + be being p.p. ]"
+    }
+  ]
+}
