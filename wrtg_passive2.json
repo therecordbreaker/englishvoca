@@ -3,70 +3,70 @@
     {
       "id": 1,
       "korean": "그 오래된 성은 수백 년 동안 관광객들에게 방문되어 왔다.",
-      "question": "the old castle have be visit by tourists for hundreds of years",
+      "question": "the old castle/have/be/visit/by/tourists/for/hundreds of/years",
       "answer": "The old castle has been visited by tourists for hundreds of years",
       "explanation": "완료형 수동태 [ S + have[has, had] been + p.p. ]"
     },
     {
       "id": 2,
       "korean": "그 오래된 그림은 한 개인 수집가에 의해 높은 가격에 구매되어 왔다.",
-      "question": "the old painting have be buy at a high price by a private collector",
+      "question": "the old painting/have/be/buy/at/a high price/by/a private/collector",
       "answer": "The old painting has been bought at a high price by a private collector",
       "explanation": "완료형 수동태 [ S + have[has, had] been + p.p. ]"
     },
     {
       "id": 3,
       "korean": "그 학생들은 지난주 이후로 선생님에게 칭찬받아 왔다.",
-      "question": "the students have be praise by their teacher since last week",
+      "question": "the students/have/be/praise/by/their/teacher/since/last week",
       "answer": "The students have been praised by their teacher since last week",
       "explanation": "완료형 수동태 [ S + have[has, had] been + p.p. ]"
     },
     {
       "id": 4,
       "korean": "그 다리는 폭우가 오기 전에 이미 건설되어 있었다.",
-      "question": "the bridge have be build before the heavy rain start",
+      "question": "the bridge/have/be/build/before/the/heavy rain/start",
       "answer": "The bridge had been built before the heavy rain started",
       "explanation": "완료형 수동태 [ S + have[has, had] been + p.p. ]"
     },
     {
       "id": 5,
       "korean": "그 희귀한 동물은 최근 보호 구역에서 발견되어 왔다.",
-      "question": "the rare animal have be find in the protected area recently",
+      "question": "the rare/animal/have/be/find/in/the protected area/recently",
       "answer": "The rare animal has been found in the protected area recently",
       "explanation": "완료형 수동태 [ S + have[has, had] been + p.p. ]"
     },
     {
       "id": 6,
       "korean": "그 오래된 규칙은 오랫동안 많은 사람들에 의해 잘못 이해되어 왔다.",
-      "question": "the old rule have be misunderstand by many people for a long time",
+      "question": "the old/rule/have/be/misunderstand/by/many people/for/a long time",
       "answer": "The old rule has been misunderstood by many people for a long time",
       "explanation": "완료형 수동태 [ S + have[has, had] been + p.p. ]"
     },
     {
       "id": 7,
       "korean": "그 편지들은 행사 당일 아침에 이미 회의실로 가져와져 있었다.",
-      "question": "the letters have be bring to the meeting room by the morning of the event",
+      "question": "the letters/have/be/bring/to/the meeting room/by/the morning/of/the event",
       "answer": "The letters had been brought to the meeting room by the morning of the event",
       "explanation": "완료형 수동태 [ S + have[has, had] been + p.p. ]"
     },
     {
       "id": 8,
       "korean": "그 회의실은 중요한 발표가 시작되기 전부터 직원들에 의해 계속 준비되고 있었던 상태였다.",
-      "question": "the conference room have be prepare by the staff before the important presentation start",
+      "question": "the conference room/have/be/prepare/by/the staff/before/the important/presentation/start",
       "answer": "The conference room had been prepared by the staff before the important presentation started",
       "explanation": "완료형 수동태 [ S + have[has had] been + being p.p. ]"
     },
     {
       "id": 9,
       "korean": "그 도둑은 이미 붙잡혀 있었기 때문에, 경찰은 그가 훔친 물건이 어디로 갔는지 추적하고 있었다.",
-      "question": "the thief have already be catch when the police be track where the steal goods have gone",
+      "question": "the thief/have/already/be/catch/when/the police/be/track/where/the/steal/goods/have/gone",
       "answer": "The thief had already been caught when the police were tracking where the stolen goods had gone.",
       "explanation": "완료형 수동태 [ S + have[has, had] been + p.p. ]"
     },
     {
       "id": 10,
       "korean": "그 문제는 전문가들에 의해 오랫동안 검토되어 오고 있었고, 지금도 여전히 논의되고 있다.",
-      "question": "the problem have be be discuss by experts for a long time and it is still be debate",
+      "question": "the problem/have/be/be/discuss/by/experts/for/a long time/and/it is/still/be/debate",
       "answer": "The problem has been being discussed by experts for a long time and it is still being debated",
       "explanation": "진행형+완료형 수동태 [ S + have[has had] been + being p.p. ]"
     }
